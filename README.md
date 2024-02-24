@@ -24,10 +24,18 @@
 🧠 Explored Power BI Service for the first time, created my account, and published my work on the platform.
 📌 Established a Novypro account to showcase my Excel and Power BI projects, making them accessible to everyone.
 
-𝐅𝐮𝐭𝐮𝐫𝐞 𝐈𝐦𝐩𝐫𝐨𝐯𝐞𝐦𝐞𝐧𝐭𝐬:
+## 𝐅𝐮𝐭𝐮𝐫𝐞 𝐈𝐦𝐩𝐫𝐨𝐯𝐞𝐦𝐞𝐧𝐭𝐬:
 
 🎨 Enhancing the project with a new user interface (UI) for a better user experience.
 🔍 Adding multiple insights and pages to dive deeper into the data.
 📚 Planning to incorporate navigation through pages for easier exploration in the future.
 
 Check out the project on Linkedin Post - 
+
+
+
+## Some Screenshots :
+![Screenshot 2024-02-24 122800](https://github.com/BhupeshDewangan/Bank_Customer_Churn_PowerBI/assets/84950520/a32f540f-39b6-4240-96e5-0a2fdf30a7b3)
+
+![Screenshot 2024-02-24 122914](https://github.com/BhupeshDewangan/Bank_Customer_Churn_PowerBI/assets/84950520/b4be8a32-edb8-41e7-9cbe-d568b6d5fc92)
+
